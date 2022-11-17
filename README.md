@@ -10,6 +10,6 @@ https://pokeapi.co/docs/v2#pokemon-section
  - npm install 
  - "ng serve -o" or "ng serve"
  
- ======= Dockerizando Proyecto ===========
- docker build -t pokeapp .
- docker run -d -it -p 81:80 pokeapp
+ ======= Dockerizando Proyecto =========== <br>
+ docker build -t pokeapp . <br>
+ docker run -d -it -p 81:80 pokeapp <br>
